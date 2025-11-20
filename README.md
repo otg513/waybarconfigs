@@ -1,2 +1,2 @@
 # waybarconfigs
-personal configs for waybar on omarchy, an opinionated arch linux + hyprland setup
+These are my personal configs for waybar on omarchy, an opinionated arch linux + hyprland setup. Some waybar buttons use commands/CLIs that do not come with Omarchy. Please download these packagaes before using this config. The packages are as followed: stormy (weather cli, requires some seperate setup with location, but API comes with), tstock (stock cli, you will need to setup an Alpha Vantage API key for this one).
